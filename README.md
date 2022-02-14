@@ -1,6 +1,10 @@
-# monero-powpy
+-------------------------
+### Run monero-powpy-Google-Colab
 
-Monero POW mining in Python.
+https://colab.research.google.com/drive/1KiwPifw2nCuwQ2j8rsbNIV5gH3roBaKh?usp=sharing
+
+-------------------------
+
 
 Utterly pointless for profit, but useful for testing / learning purposes.
 
