@@ -6,8 +6,6 @@ https://colab.research.google.com/drive/1KiwPifw2nCuwQ2j8rsbNIV5gH3roBaKh?usp=sh
 -------------------------
 
 
-Utterly pointless for profit, but useful for testing / learning purposes.
-
 ## Why?
 
 Good question! Simply there are so many people asking on
